@@ -1,4 +1,4 @@
-# 🧭 Tester Board Controller v1.2.1 (STM32 + Arduino Framework)
+# 🧭 Tester Board Controller v1.2.1
 
 Program ini merupakan firmware pengujian untuk **board controller CNC** berbasis **STM32 (misal Nucleo-F446RE)** dengan fungsi utama:
 - Menguji seluruh **pin output** satu per satu.
@@ -118,14 +118,14 @@ Timer hardware digunakan:
 ---
 
 ## 🧰 Persyaratan
-- **Board:** STM32 (misalnya Nucleo-F446RE)  
-- **Framework:** Arduino (PlatformIO / STM32duino)  
+- **Board:** STM32 (misalnya Nucleo-F446RE)    
 - **Baud rate:** 115200  
 - **Port serial:** USB virtual COM
+- **Serial Monitor:** Bisa menggunakan aplikasi Arduino IDE
 
 ---
 
 ## 🏁 Versi
 **Firmware:** `v1.2.1`  
 **Author:** Thoriq Akmal  
-**Tanggal:** November 2025
+**Tanggal:** 5 November 2025
