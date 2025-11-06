@@ -14,7 +14,7 @@ Program ini merupakan firmware pengujian untuk **board controller CNC** berbasis
 |-------|------------|
 | 🔹 Tes Output Otomatis | Menyalakan seluruh pin output secara bergantian selama 2 detik. |
 | 🔹 Tes Output Per Pin | Mengetes satu pin output tertentu dengan perintah `Tes <NAMA_PIN>`. |
-| 🔹 Counter Pulsa Stepper | Menghitung pulsa dari pin `STEP_X`–`STEP_C` disertai arah berdasarkan sinyal `DIR_x`. |
+| 🔹 Counter Pulsa Stepper | Menghitung pulsa dari pin `STEP_X`–`STEP_C` disertai arah berdasarkan sinyal `DIR_X`-`DIR_C`. |
 | 🔹 Simulasi Encoder | Menghasilkan sinyal encoder **A dan Z** dengan frekuensi sesuai nilai **RPM dan PPR**. |
 | 🔹 Deteksi Input | Menampilkan nama pin input yang berubah status secara real-time. |
 
