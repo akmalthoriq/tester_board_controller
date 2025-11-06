@@ -14,7 +14,7 @@ Program ini merupakan firmware pengujian untuk **board controller CNC** berbasis
 |-------|------------|
 | 🔹 Tes Output Otomatis | Menyalakan seluruh pin output secara bergantian selama 2 detik. |
 | 🔹 Tes Output Per Pin | Mengetes satu pin output tertentu dengan perintah `Tes <NAMA_PIN>`. |
-| 🔹 Counter Pulsa Stepper | Menghitung pulsa dari pin `STEP_X`–`STEP_C` disertai arah berdasarkan sinyal `DIR_x`. |
+| 🔹 Counter Pulsa Stepper | Menghitung pulsa dari pin `STEP_X`–`STEP_C` disertai arah berdasarkan sinyal `DIR_X`-`DIR_C`. |
 | 🔹 Simulasi Encoder | Menghasilkan sinyal encoder **A dan Z** dengan frekuensi sesuai nilai **RPM dan PPR**. |
 | 🔹 Deteksi Input | Menampilkan nama pin input yang berubah status secara real-time. |
 
@@ -72,7 +72,7 @@ Program ini merupakan firmware pengujian untuk **board controller CNC** berbasis
 | PROXY_UNCLAMP | PA0 | Sensor proximity UNCLAMP |
 | PROXY_ATC_POS | PA11 | Sensor proximity ATC_POS |
 | ORIENT_OKE | PD2 | Orientasi spindle |
-| OIL_LVL | PC15 | Sensor level oli (PENGETESAN OIL_LVL MENGUNAKAN TOMBOL!!)|
+| OIL_LVL |  | Sensor level oli (PENGETESAN OIL_LVL MENGUNAKAN TOMBOL!!)|
 
 ---
 
