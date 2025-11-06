@@ -72,7 +72,7 @@ Program ini merupakan firmware pengujian untuk **board controller CNC** berbasis
 | PROXY_UNCLAMP | PA0 | Sensor proximity UNCLAMP |
 | PROXY_ATC_POS | PA11 | Sensor proximity ATC_POS |
 | ORIENT_OKE | PD2 | Orientasi spindle |
-| OIL_LVL | PC15 | Sensor level oli (PENGETESAN OIL_LVL MENGUNAKAN TOMBOL!!)|
+| OIL_LVL |  | Sensor level oli (PENGETESAN OIL_LVL MENGUNAKAN TOMBOL!!)|
 
 ---
 
